@@ -19,3 +19,4 @@ __pycache__/
 
 # CSV datasets produced
 /data/datasets
+/data
