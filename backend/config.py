@@ -1,0 +1,5 @@
+#backend\config.py
+DT = 0.02
+MAX_STEPS = 3000
+BOUND = 12.0
+COLLISION_RADIUS = 0.15
